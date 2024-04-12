@@ -18,7 +18,7 @@ Features
  
 How to Compile and Run
 
-1. Clone the repository: git clone <repository_url>
+1. Clone the repository: git clone https://github.com/Lwandle-Chauke/programming-2a-part1-new-Lwandle-Chauke
 2. Navigate to the repository directory: cd MyRecipeApp
 3. Compile the code: csc MyRecipeApp.cs
 4. Run the application: MyRecipeApp.exe
