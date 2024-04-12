@@ -23,5 +23,5 @@ How to Compile and Run
 3. Compile the code: csc MyRecipeApp.cs
 4. Run the application: MyRecipeApp.exe
 
-For more detailed instructions and information, visit the [GitHub repository](link_to_repository).
+For more detailed instructions and information, visit the [GitHub repository](https://github.com/Lwandle-Chauke/programming-2a-part1-new-Lwandle-Chauke).
  
