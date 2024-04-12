@@ -5,7 +5,7 @@ Welcome to My Recipe App! This command-line application allows you to enter, vie
 Table of Contents
 
 	•	Features
-	•	How to Use
+	•	How to Compile and Run
 
 Features
 
@@ -16,14 +16,12 @@ Features
 	•	Clear Data: Clear all recipe data to enter a new recipe.
 	•	Error Handling: Comprehensive error handling to ensure smooth user experience.
  
-How to Use
+How to Compile and Run
 
-	1.	Clone the Repository: Clone this repository to your local machine using Git.
+1. Clone the repository: git clone <repository_url>
+2. Navigate to the repository directory: cd MyRecipeApp
+3. Compile the code: csc MyRecipeApp.cs
+4. Run the application: MyRecipeApp.exe
 
-git clone <repository_url>
-
-	2.	Navigate to the Repository: Change into the directory of the cloned repository.
-	3.	Compile and Run: Compile and run the application using a C# compiler (Visual Studio).
-	4.	Follow the On-Screen Instructions: Interact with the application by following the on-screen instructions to enter, view, scale, reset, or clear recipe data.
-	5.	Enjoy Cooking!: Explore the features of My Recipe App and start managing your recipes effortlessly.
+For more detailed instructions and information, visit the [GitHub repository](link_to_repository).
  
