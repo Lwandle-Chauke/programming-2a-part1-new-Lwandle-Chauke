@@ -113,7 +113,7 @@ class MyRecipeApp
         Console.WriteLine("\nRecipe entered successfully!");
     }
 
-    // Method to view the full recipe
+    // Method to view the full recipe the user has made
     static void ViewRecipe()
     {
         Console.WriteLine("\n------------------------------- MY RECIPE -------------------------------");
